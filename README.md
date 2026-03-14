@@ -31,6 +31,13 @@ The robot features:
 
 ---
 
+# Final Product
+
+Example robot produced.
+
+![FuFu monster](image/fufu.jpg)
+
+---
 
 # Repository Structure
 
@@ -43,7 +50,10 @@ FuFu-monster/
 │   MuJoCo simulation environment and reinforcement learning experiments
 │
 └── SW-assembly
-    Mechanical design files (SolidWorks)
+│   Mechanical design files (SolidWorks)
+│
+└── image
+    Photo for final project
 ```
 
 # Code
